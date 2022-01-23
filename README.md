@@ -1,4 +1,6 @@
-![VINCENT Xavier](https://user-images.githubusercontent.com/91670622/150694998-ac3fe8c3-02a8-4039-8bcb-7d2fa3eb2241.gif)
+<p align="left" width="100%">
+  ![VINCENT Xavier](https://user-images.githubusercontent.com/91670622/150694998-ac3fe8c3-02a8-4039-8bcb-7d2fa3eb2241.gif)
+</p>
 
 👋 Hi, welcome to my GitHub.
 
