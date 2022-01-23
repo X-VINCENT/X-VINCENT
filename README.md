@@ -14,15 +14,15 @@
 🚀 I'm doing my best to achieve my dreams and accomplish my goals.
 
 <a href="https://linktr.ee/x_vincent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=x-  vincent&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=x-  vincent&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&langs_count=10">
   <p></p>
 </a>
 
 <a href="https://linktr.ee/x_vincent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-vincent&langs_count=10&theme=cobalt&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-vincent&langs_count=10&theme=cobalt&count_private=true&include_all_commits=true">
   <p></p>
 </a>
 
 <a href="https://linktr.ee/x_vincent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=x-vincent&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=x-vincent&theme=cobalt">
 </a>
