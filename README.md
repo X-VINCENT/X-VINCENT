@@ -9,3 +9,5 @@
 💡 I love to learn and develop my knowledge.
 
 🚀 I'm doing my best to achieve my dreams and accomplish my goals.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x-vincent)](https://github.com/anuraghazra/github-readme-stats)
