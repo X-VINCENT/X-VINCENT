@@ -10,4 +10,4 @@
 
 🚀 I'm doing my best to achieve my dreams and accomplish my goals.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x-vincent)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
