@@ -1,4 +1,4 @@
-<a href="https://linktr.ee/x_vincent">
+<a align="center" href="https://linktr.ee/x_vincent">
   <img align="center" src="https://user-images.githubusercontent.com/91670622/150694998-ac3fe8c3-02a8-4039-8bcb-7d2fa3eb2241.gif">
   <p></p>
 </a>
@@ -13,16 +13,16 @@
 
 🚀 I'm doing my best to achieve my dreams and accomplish my goals.
 
-<a href="https://linktr.ee/x_vincent">
+<a align="center" align="center" href="https://linktr.ee/x_vincent">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true&langs_count=10">
   <p></p>
 </a>
 
-<a href="https://linktr.ee/x_vincent">
+<a align="center" align="center" href="https://linktr.ee/x_vincent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-vincent&langs_count=10&theme=cobalt&count_private=true&include_all_commits=true">
   <p></p>
 </a>
 
-<a href="https://linktr.ee/x_vincent">
+<a align="center" align="center" href="https://linktr.ee/x_vincent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=x-vincent&theme=cobalt">
 </a>
