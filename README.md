@@ -74,15 +74,14 @@
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x-vincent&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="x-vincent" />
-</p>
-
 <p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&locale=en&theme=cobalt&count_private=true" alt="x-vincent" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&locale=en&theme=cobalt&count_private=true" alt="x-vincent" />
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=x-vincent&theme=cobalt" alt="x-vincent" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=x-vincent&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="x-vincent" />
 </p>
 
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=x-vincent&theme=cobalt" alt="x-vincent">
+</p>
