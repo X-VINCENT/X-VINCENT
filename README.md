@@ -86,5 +86,5 @@
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=x-vincent&theme=cobalt" alt="x-vincent">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=x-vincent&theme=cobalt" alt="x-vincent">
 </p>
