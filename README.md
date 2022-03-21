@@ -3,7 +3,11 @@
 </h1>
 
 <h3 align="center">
-    🎓 I'm a first year IT Student at EPITECH Bordeaux. 🤖 Passionnate about programmation, tweaking systems and new technologies. 💻 I'm currently learning C & Python languages. 💡 I love to learn and develop my knowledge. 🚀 I'm doing my best to achieve my dreams and accomplish my goals.
+    🎓 I'm a first year IT Student at EPITECH Bordeaux.
+    <br>🤖 Passionnate about programmation, tweaking systems and new technologies.
+    <br>💻 I'm currently learning C & Python languages.
+    <br>💡 I love to learn and develop my knowledge.
+    <br>🚀 I'm doing my best to achieve my dreams and accomplish my goals.
 </h3>
 
 <p align="center">
