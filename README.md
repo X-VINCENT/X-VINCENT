@@ -81,10 +81,6 @@
     </a>
 </p>
 
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&locale=en&theme=cobalt&count_private=true" alt="x-vincent" />
-</p>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&locale=en&theme=cobalt&count_private=true" alt="x-vincent" />
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=x-vincent&theme=cobalt" alt="x-vincent">
-</p>
+<img align="left" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=x-vincent&theme=cobalt" alt="x-vincent">
