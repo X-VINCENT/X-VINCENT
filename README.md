@@ -85,11 +85,15 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&locale=en&theme=cobalt&count_private=true" alt="x-vincent" />
 
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=x-vincent&theme=cobalt" alt="x-vincent">
+
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
+<br />
+<br />
+
 <img align="left" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="x-vincent" />
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-vincent&layout=compact&theme=cobalt" alt="x-vincent" />
