@@ -2,11 +2,12 @@
     Hi 👋, I'm Xavier VINCENT
 </h1>
 
-<h3 align="center">a
+<h3 align="center">
     🎓 I'm a first year IT Student at EPITECH Bordeaux.
+    <br>💡 I'm currently doing an internship in the startup CibleR
     <br>🤖 Passionnate about programmation, tweaking systems and new technologies.
     <br>💻 I'm currently learning C & Python languages.
-    <br>💡 I love to learn and develop my knowledge.
+    <br>🧠 I love to learn and develop my knowledge.
     <br>🚀 I'm doing my best to achieve my dreams and accomplish my goals.
 </h3>
 
