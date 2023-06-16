@@ -2,14 +2,12 @@
     Hi 👋, I'm Xavier VINCENT
 </h1>
 
-<h3 align="center">
-    🎓 I'm a second year IT Student at EPITECH Bordeaux.
-    <br>💡 I'm currently doing an internship in the startup CibleR
-    <br>🤖 Passionnate about programmation, tweaking systems and new technologies.
-    <br>💻 I'm currently learning React, JS Frameworks, HTML, CSS, C and Python...
-    <br>🧠 I love to learn and develop my knowledge.
-    <br>🚀 I'm doing my best to achieve my dreams and accomplish my goals.
-</h3>
+🎓 I'm a second year IT Student at EPITECH Bordeaux.
+<br>💡 I'm currently doing an internship in the startup CibleR
+<br>🤖 Passionnate about programmation, tweaking systems and new technologies.
+<br>💻 I'm currently learning React, JS Frameworks, HTML, CSS, C and Python...
+<br>🧠 I love to learn and develop my knowledge.
+<br>🚀 I'm doing my best to achieve my dreams and accomplish my goals.
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
