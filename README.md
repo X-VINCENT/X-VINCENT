@@ -4,10 +4,9 @@
 
 <br>
 
-### 🎓 I'm a second year IT Student at EPITECH Bordeaux.
-### 💡 I'm currently doing an internship in the startup CibleR
+### 🎓 I'm a third year IT Student at EPITECH Bordeaux.
 ### 🤖 Passionnate about programmation, tweaking systems and new technologies.
-### 💻 I'm currently learning React, JS Frameworks, HTML, CSS, C and Python...
+### 💻 I'm currently learning React, Next, JS Frameworks, C, C++, Python...
 ### 🧠 I love to learn and develop my knowledge.
 ### 🚀 I'm doing my best to achieve my dreams and accomplish my goals.
 
