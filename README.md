@@ -4,7 +4,7 @@
 
 <br>
 
-### 🎓 I'm a third year IT Student at EPITECH Bordeaux.
+### 🎓 I'm a fourth year IT Student at EPITECH Bordeaux.
 ### 🤖 Passionnate about programmation, AI and new technologies.
 ### 💻 I'm currently learning React, Next, Python, C, C++, Python...
 ### 🧠 I love to learn and develop my knowledge.
