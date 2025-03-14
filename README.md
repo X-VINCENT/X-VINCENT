@@ -1,29 +1,18 @@
-<h1 align="center">
-    Hi 👋, I'm Xavier VINCENT
-</h1>
+# Hi 👋, I'm Xavier VINCENT</h1>
+<img src="https://komarev.com/ghpvc/?username=x-vincent&label=Profile%20views&color=0e75b6&style=flat" alt="x-vincent" />
+
+I'm a Freelance FullStack Developer, helping the <a href="https://www.wearegenial.com/">@Genial</a> team creating powerful AI agents.
+I'm currently at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal (Canada) learning business. I'm also a 4th year IT student at <a href="https://www.epitech.eu/">@EPITECH</a> Bordeaux.
 
 <br>
 
-### 🎓 I'm a fourth year IT Student at EPITECH Bordeaux.
-### 🤖 Passionnate about programmation, AI and new technologies.
-### 💻 I'm currently learning React, Next, Python, C, C++, Python...
-### 🧠 I love to learn and develop my knowledge.
-### 🚀 I'm doing my best to achieve my dreams and accomplish my goals.
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=x-vincent&theme=tokyonight" alt="x-vincent" />
+</a>
 
-<br>
-<br>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=x-vincent&theme=tokyonight" alt="x-vincent" />
-    </a>
-</p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=x-vincent&label=Profile%20views&color=0e75b6&style=flat" alt="x-vincent" />
-</p>
-
-<h3 align="left">Connect with me :</h3>
+#### Connect with me :
 <p align="left">
     <a href="https://twitter.com/xav_vincent" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xav_vincent" height="30" width="40" />
@@ -36,30 +25,20 @@
     </a>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
+#### I'm working with:
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="40" height="40"/>
     </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.synergysparq.com/wp-content/uploads/2024/09/next-js-logo-small.png" alt="Next JS Logo" width="40" height="40"/>
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="40" height="40"/>
     </a>
 </p>
+
+<br>
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&locale=en&theme=cobalt&count_private=true" alt="x-vincent" />
 
