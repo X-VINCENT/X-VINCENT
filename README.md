@@ -4,12 +4,23 @@
 I'm a Freelance FullStack Developer, helping the <a href="https://www.wearegenial.com/">@Genial</a> team creating powerful AI agents.
 I'm currently at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal (Canada) learning business. I'm also a 4th year IT student at <a href="https://www.epitech.eu/">@EPITECH</a> Bordeaux.
 
+#### I worked on the following projects:
+- [Infiniment Charentes](https://infiniment-charentes.com) - (November - March 2024)
+- [Marianne France](https://marianne.france.fr) - (November 2023)
+- [Services Fruités](https://www.services-fruites.com) - (August 2023)
+- [But](https://www.but.fr/) - (Decembre 2022)
+- [D'Clic Habitat](https://dclic-habitat.com) - (March 2024)
+- [Martinique Guide](https://guide.martinique.org) - (September 2023)
+- [Zanmi](https://zanmi.ai) - (January 2024)
+- [TourismeByCA](https://tourismebyca.fr/) - (December - January 2022)
+- [Studio Déco Réno](https://studiodecoreno.fr/) - (Octobre 2022)
+- and so on...
+
 <br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=x-vincent&theme=tokyonight" alt="x-vincent" />
 </a>
-
 
 
 #### Connect with me :
