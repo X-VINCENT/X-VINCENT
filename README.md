@@ -12,7 +12,7 @@ I'm currently at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montr
 - [D'Clic Habitat](https://dclic-habitat.com) - (March 2024)
 - [Martinique Guide](https://guide.martinique.org) - (September 2023)
 - [Zanmi](https://zanmi.ai) - (January 2024)
-- [TourismeByCA](https://tourismebyca.fr/) - (December - January 2022)
+- [TourismeByCA](https://tourismebyca.fr/) - (December - January 2023)
 - [Studio Déco Réno](https://studiodecoreno.fr/) - (Octobre 2022)
 - and so on...
 
