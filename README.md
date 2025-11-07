@@ -2,7 +2,8 @@
 <img src="https://komarev.com/ghpvc/?username=x-vincent&label=Profile%20views&color=0e75b6&style=flat" alt="x-vincent" />
 
 I'm a Freelance FullStack Developer, helping the <a href="https://www.wearegenial.com/">@Genial</a> team creating powerful AI agents.
-I'm currently at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal (Canada) learning business. I'm also a 4th year IT student at <a href="https://www.epitech.eu/">@EPITECH</a> Bordeaux.
+I'm the co-founder of <a href="https://www.lyten.agency/">@Lyten Agency</a> and <a href="https://www.pickyshop.fr/">@Picky</a>.
+I studied at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal (Canada) and learned business. I'm also a 5th year IT student at <a href="https://www.epitech.eu/">@EPITECH</a> Bordeaux.
 
 #### I worked on the following projects:
 - [Infiniment Charentes](https://infiniment-charentes.com) - (November - March 2024)
