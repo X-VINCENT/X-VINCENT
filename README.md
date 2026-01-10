@@ -3,7 +3,7 @@
 
 I'm a Freelance FullStack Developer, helping the <a href="https://www.wearegenial.com/">@Genial</a> team creating powerful AI agents.
 I'm the co-founder of <a href="https://www.lyten.agency/">@Lyten Agency</a> and <a href="https://www.pickyshop.fr/">@Picky</a>.
-I studied at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal (Canada) and learned business. I'm also a 5th year IT student at <a href="https://www.epitech.eu/">@EPITECH</a> Bordeaux.
+I studied at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal (Canada) and learned business, entrepreneurship, and finance. I'm also a 5th year IT student at <a href="https://www.epitech.eu/">@EPITECH</a> Bordeaux.
 
 #### I worked on the following projects:
 - [Lyten Agency](https://www.lyten.agency?ref=github_xavier) - (October 2025 - Now)
