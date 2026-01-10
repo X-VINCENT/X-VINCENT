@@ -22,9 +22,7 @@ I studied at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal 
 
 <br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=x-vincent&theme=tokyonight" alt="x-vincent" />
-</a>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=x-vincent&theme=tokyonight" alt="x-vincent" />
 
 
 #### Connect with me :
@@ -55,18 +53,4 @@ I studied at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal 
 
 <br>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=x-vincent&show_icons=true&locale=en&theme=cobalt&count_private=true" alt="x-vincent" />
-
 <img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=x-vincent&theme=cobalt" alt="x-vincent">
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-<img align="left" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HD_transparent_picture.png/1200px-HD_transparent_picture.png" alt="x-vincent" />
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-vincent&layout=compact&theme=cobalt" alt="x-vincent" />
