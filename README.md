@@ -6,6 +6,9 @@ I'm the co-founder of <a href="https://www.lyten.agency/">@Lyten Agency</a> and 
 I studied at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal (Canada) and learned business. I'm also a 5th year IT student at <a href="https://www.epitech.eu/">@EPITECH</a> Bordeaux.
 
 #### I worked on the following projects:
+- [Lyten Agency](https://www.lyten.agency?ref=github_xavier) - (October 2025 - Now)
+- [Picky](https://www.pickyshop.fr?ref=github_xavier) - (July 2024 - Now)
+- [Contest Game - Citroën x ZooParc de Beauval] - Confidential Link for now (May - June 2025)
 - [Infiniment Charentes](https://infiniment-charentes.com) - (November - March 2024)
 - [Marianne France](https://marianne.france.fr) - (November 2023)
 - [Services Fruités](https://www.services-fruites.com) - (August 2023)
