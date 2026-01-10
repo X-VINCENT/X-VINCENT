@@ -1,23 +1,23 @@
 # Hi 👋, I'm Xavier VINCENT</h1>
 <img src="https://komarev.com/ghpvc/?username=x-vincent&label=Profile%20views&color=0e75b6&style=flat" alt="x-vincent" />
 
-I'm a Freelance FullStack Developer, helping the <a href="https://www.wearegenial.com/">@Genial</a> team creating powerful AI agents.
-I'm the co-founder of <a href="https://www.lyten.agency/">@Lyten Agency</a> and <a href="https://www.pickyshop.fr/">@Picky</a>.
-I studied at <a href="https://www.mcgill.ca/">@McGillUniversity</a> in Montreal (Canada) and learned business, entrepreneurship, and finance. I'm also a 5th year IT student at <a href="https://www.epitech.eu/">@EPITECH</a> Bordeaux.
+I'm a Freelance FullStack Developer, helping the <a href="https://www.wearegenial.com?ref=github_xavier_vincent">@Genial</a> team creating powerful AI agents.
+I'm the co-founder of <a href="https://www.lyten.agency/">@Lyten Agency</a> and <a href="https://www.pickyshop.fr?ref=github_xavier_vincent">@Picky</a>.
+I studied at <a href="https://www.mcgill.ca?ref=github_xavier_vincent">@McGillUniversity</a> in Montreal (Canada) and learned business, entrepreneurship, and finance. I'm also a 5th year IT student at <a href="https://www.epitech.eu?ref=github_xavier_vincent">@EPITECH</a> Bordeaux.
 
 #### I worked on the following projects:
-- [Lyten Agency](https://www.lyten.agency?ref=github_xavier) - (October 2025 - Now)
-- [Picky](https://www.pickyshop.fr?ref=github_xavier) - (July 2024 - Now)
+- [Lyten Agency](https://www.lyten.agency?ref=github_xavier_vincent) - (October 2025 - Now)
+- [Picky](https://www.pickyshop.fr?ref=github_xavier_vincent) - (July 2024 - Now)
 - [Contest Game - Citroën x ZooParc de Beauval] - Confidential Link for now (May - June 2025)
-- [Infiniment Charentes](https://infiniment-charentes.com) - (November - March 2024)
-- [Marianne France](https://marianne.france.fr) - (November 2023)
-- [Services Fruités](https://www.services-fruites.com) - (August 2023)
-- [But](https://www.but.fr/) - (Decembre 2022)
-- [D'Clic Habitat](https://dclic-habitat.com) - (March 2024)
-- [Martinique Guide](https://guide.martinique.org) - (September 2023)
-- [Zanmi](https://zanmi.ai) - (January 2024)
-- [TourismeByCA](https://tourismebyca.fr/) - (December - January 2023)
-- [Studio Déco Réno](https://studiodecoreno.fr/) - (Octobre 2022)
+- [Infiniment Charentes](https://infiniment-charentes.com?ref=github_xavier_vincent) - (November - March 2024)
+- [Marianne France](https://marianne.france.fr?ref=github_xavier_vincent) - (November 2023)
+- [Services Fruités](https://www.services-fruites.com?ref=github_xavier_vincent) - (August 2023)
+- [But](https://www.but.fr?ref=github_xavier_vincent) - (Decembre 2022)
+- [D'Clic Habitat](https://dclic-habitat.com?ref=github_xavier_vincent) - (March 2024)
+- [Martinique Guide](https://guide.martinique.org?ref=github_xavier_vincent) - (September 2023)
+- [Zanmi](https://zanmi.ai?ref=github_xavier_vincent) - (January 2024)
+- [TourismeByCA](https://tourismebyca.fr?ref=github_xavier_vincent) - (December - January 2023)
+- [Studio Déco Réno](https://studiodecoreno.fr?ref=github_xavier_vincent) - (Octobre 2022)
 - and so on...
 
 <br>
