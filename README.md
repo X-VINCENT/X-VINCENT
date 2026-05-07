@@ -3,6 +3,7 @@
 
 I'm a Freelance FullStack Developer, helping the <a href="https://www.wearegenial.com?ref=github_xavier_vincent">@Genial</a> team creating powerful AI agents.
 I'm the co-founder of <a href="https://www.lyten.agency/">@Lyten Agency</a> and <a href="https://www.pickyshop.fr?ref=github_xavier_vincent">@Picky</a>.
+I'm building <a href="https://carousels-generator.com/">@Carousels Generator</a> and <a href="https://mailpulse-io.lyten.agency/">@Mailpulse</a>.
 I studied at <a href="https://www.mcgill.ca?ref=github_xavier_vincent">@McGillUniversity</a> in Montreal (Canada) and learned business, entrepreneurship, and finance. I'm also a 5th year IT student at <a href="https://www.epitech.eu?ref=github_xavier_vincent">@EPITECH</a> Bordeaux.
 
 #### I worked on the following projects:
